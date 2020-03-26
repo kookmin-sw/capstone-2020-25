@@ -1,5 +1,5 @@
-
 # **Linux Fast Boot**
+
 ![LOGO](https://cyberperseus.com/wp-content/uploads/2019/07/Perseus-logo-web.png)
 
 ## **I. 프로젝트 개요**
@@ -9,9 +9,14 @@
 부팅 시간은 보드에 전원이 공급된 시점 부터 대상 응용의 실행 화면이 나타날때 까지의 시간으로 정의한다.
 ## **II. 팀 소개**
 ### **김진성**
+ * 학번 : 20153165
+ * email : jskim@cyberperseus.com
+
 ## **III.Abstract**
 영어 요약
+
 ## **IV. 소개 영상**
 **추후 추가 예정**
+
 ## **V. 결과 영상**
 **추후 추가 예정**
