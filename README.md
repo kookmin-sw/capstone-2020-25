@@ -1,4 +1,6 @@
+
 # **Linux Fast Boot**
+![LOGO](https://cyberperseus.com/wp-content/uploads/2019/07/Perseus-logo-web.png)
 
 ## **I. 프로젝트 개요**
 본 프로젝트는 차량용 보드에 리눅스 패스트 부트를 구현하는 프로젝트이다.
